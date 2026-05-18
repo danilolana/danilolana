@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou o Danilo </h1>
 
-<!--
-**danilolana/danilolana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Desenvolvimento Full Stack <br>
+  🎓 Técnico em Informática (2º ano de 3) <br>
+  🚀 tecnologia, IA e desenvolvimento 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+- 🎓 Estudando desenvolvimento **Front-End** e **Back-End**
+- 🖥️ Curso Técnico em Informática
+- 🤖 Conhecimentos em **Inteligência Artificial**
+- 🌱 Atualmente aprendendo mais sobre:
+  - React
+  - APIs
+  - Node.js
+  - Banco de Dados
+  - Java
+- 📚 Sempre buscando evoluir como desenvolvedor
+- ⚡ Objetivo: me tornar um desenvolvedor full stack profissional
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=blueviolet&style=flat-square"/>
+
+</div>
