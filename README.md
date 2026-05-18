@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, eu sou o Danilo </h1>
+<h1 align="center">Olá 👋, eu me chamo Danilo </h1>
+<h1 align="center">Bem vindo ao meu GitHub </h1>
 
 <p align="center">
   💻 Estudante de Desenvolvimento Full Stack <br>
