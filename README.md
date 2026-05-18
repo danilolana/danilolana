@@ -27,9 +27,11 @@
 
 ## 💼 My Skill Set
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🌐 Frontend
 
@@ -44,30 +46,43 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### 🔧 Backend
 
 <div align="center">  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"/>
 
 </div>
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="33%" align="center">
 
 ### ⚙️ DevOps & Tools
 
 <div align="center">  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/elevenlabs.png" width="50"/>
 
 </div>
 
@@ -75,6 +90,7 @@
 </tr>
 </table>
 
+</div>
 
 ## 🔥 Sequência de Contribuições
 
