@@ -68,8 +68,7 @@ Fora do estágio, estudo Java e Spring Boot construindo uma API do zero e public
 ## `> atividade`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danilolana&show_icons=true&hide_border=true&bg_color=0B1118&title_color=38BDF8&icon_color=7DD3FC&text_color=AFC5DB&locale=pt-br" alt="Estatísticas do GitHub de Danilo Lana"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=danilolana&hide_border=true&background=0B1118&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=AFC5DB&currStreakNum=F4F9FF&sideNums=F4F9FF&dates=7389A1&locale=pt_BR" alt="Sequência de contribuições de Danilo Lana"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=danilolana&hide_border=true&background=0B1118&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=AFC5DB&currStreakNum=F4F9FF&sideNums=F4F9FF&dates=7389A1&locale=pt_BR" alt="Sequência de contribuições de Danilo Lana"/>
 </div>
 
 <br>
