@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1584 396" width="1584" height="396" role="img" aria-labelledby="title desc">
+  <title id="title">Danilo Lana</title>
+  <desc id="desc">Desenvolvimento de Software, IA e Automação. github.com/danilolana</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1118"/>
+      <stop offset="0.55" stop-color="#0E1823"/>
+      <stop offset="1" stop-color="#0A0F15"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="0.62" cy="0.55" r="0.75">
+      <stop offset="0" stop-color="#16324A" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#05080C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7DD3FC" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="flare">
+      <stop offset="0" stop-color="#E0F7FF"/>
+      <stop offset="0.25" stop-color="#7DD3FC" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#1C2A38" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .fade { animation: fadeUp 1s ease-out both; }
+      .d1 { animation-delay: .2s; } .d2 { animation-delay: .7s; } .d3 { animation-delay: 1.2s; }
+      .grid { animation: drift 18s linear infinite; }
+      .trace { stroke-dasharray: 700; animation: draw 2.4s ease-out .3s both; }
+      .node { animation: pulse 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .flare { animation: sweep 4.5s ease-in-out infinite; }
+      .beam { animation: shimmer 4.5s ease-in-out infinite; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes drift { from { transform: translate(0,0); } to { transform: translate(44px,44px); } }
+      @keyframes draw { from { stroke-dashoffset: 700; } to { stroke-dashoffset: 0; } }
+      @keyframes pulse { 0%,100% { opacity: .45; transform: scale(1); } 50% { opacity: 1; transform: scale(1.5); } }
+      @keyframes sweep { 0% { transform: translateX(-420px); opacity: 0; } 15% { opacity: 1; } 70% { transform: translateX(0); opacity: 1; } 100% { transform: translateX(0); opacity: .35; } }
+      @keyframes shimmer { 0%,100% { opacity: .55; } 60% { opacity: 1; } }
+      @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <g opacity="0.35"><rect class="grid" x="-44" y="-44" width="1672" height="484" fill="url(#grid)"/></g>
+  <rect width="1584" height="396" fill="url(#vignette)"/>
+
+  <!-- circuit trace, top left -->
+  <g fill="none" stroke="#5B7A94" stroke-width="2" stroke-linecap="round" opacity="0.8">
+    <path class="trace" d="M0 82 H150 L190 124 H290 L330 82 H500 L540 124 H620"/>
+    <path class="trace" d="M60 60 H120" opacity="0.6"/>
+  </g>
+  <circle class="node" cx="150" cy="82" r="4" fill="#7DD3FC"/>
+  <circle class="node" cx="620" cy="124" r="5" fill="#7DD3FC" style="animation-delay:1.2s"/>
+
+  <!-- text block, kept right of the profile photo area -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text class="fade d1" x="820" y="188" fill="#F4F9FF" font-size="104" font-weight="700" letter-spacing="-2">Danilo Lana</text>
+    <text class="fade d2" x="824" y="240" fill="#E2ECF5" font-size="30" font-weight="600">Desenvolvimento de Software • IA • Automação</text>
+    <text class="fade d3" x="826" y="316" fill="#8FA6BA" font-size="26">github.com/danilolana<tspan class="cursor" fill="#38BDF8"> _</tspan></text>
+  </g>
+
+  <!-- light beam with travelling flare -->
+  <rect class="beam" x="820" y="268" width="764" height="2" fill="url(#beam)"/>
+  <g class="flare">
+    <ellipse cx="1450" cy="269" rx="70" ry="9" fill="url(#flare)" filter="url(#glow)"/>
+    <circle cx="1450" cy="269" r="4" fill="#F0FBFF"/>
+  </g>
+</svg>

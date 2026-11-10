@@ -1,26 +1,45 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danilolana/imgs/main/header.svg" width="100%" alt="Danilo Lana — Full Stack Developer"/>
+  <img src="./assets/banner.svg" width="100%" alt="Danilo Lana — Desenvolvimento de Software, IA e Automação"/>
 </div>
-
-<br>
 
 <div align="center">
-  <strong>Desenvolvedor em formação, construindo experiências digitais de ponta a ponta.</strong>
-  <br>
-  <sub>Front-end · Back-end · Inteligência Artificial</sub>
+
+**Estagiário de Desenvolvimento na Texan Group · Técnico em Informática**
+
+React · Node.js · Python · Java/Spring · MySQL · IA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danilolana-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilolana)
+[![GitHub](https://img.shields.io/badge/GitHub-danilolana-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danilolana)
+![Campinas, SP](https://img.shields.io/badge/Campinas%2C%20SP-Brasil-38BDF8?style=flat-square)
+
 </div>
 
-<br>
+## `> sobre`
 
-## `> sobre_mim`
+Sou estudante do Técnico em Informática no **Colégio Técnico Bento Quirino** e estagiário de Desenvolvimento de Software na **Texan Group**, em Campinas, desde novembro de 2025.
 
-Sou estudante de **Desenvolvimento Full Stack** e curso o técnico em **Informática**. Gosto de entender todo o caminho de um produto digital — da interface à lógica de negócio — e transformar aprendizado em projetos reais.
+Na Texan, trabalho em produtos internos com inteligência artificial, de plataformas web a automações com n8n e integrações entre sistemas. Também cuido de deploy com Docker, GitHub Actions e servidores Linux, sempre preservando os dados de produção.
 
-- Atualmente aprofundando conhecimentos em **React, Node.js, APIs, Java e bancos de dados**
-- Explorando aplicações de **Inteligência Artificial** no desenvolvimento de software
-- Evoluindo com foco em código limpo, boas práticas e experiências úteis
+Fora do estágio, estudo Java e Spring Boot construindo uma API do zero e publico skills open source para agentes de IA. Gosto de entender o problema antes de escrever código e de entregar soluções que funcionam de verdade.
 
-<br>
+## `> experiência`
+
+**Estagiário de Desenvolvimento de Software · Texan Group** — nov/2025 até hoje · Campinas, SP
+
+- **OraculoX:** plataforma de prompts da empresa, com deploy em Docker, MySQL e GitHub Actions em servidor Vultr, e login via OAuth.
+- **Texan Talxs:** plataforma de podcasts com geração automatizada de cortes de vídeo usando FFmpeg.
+- **Integração Texan Advisor – MVX:** conexão entre sistemas via API, com autenticação por chave e tokens em Docker Compose.
+- **Automação de WhatsApp:** fluxos em n8n com Evolution API, Google Sheets e Gemini.
+
+## `> projetos`
+
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| [**skill-prompt-plan**](https://github.com/danilolana/skill-prompt-plan) | Transforma reuniões e briefings em planos de prompts por etapa para Claude Code e Codex | Claude · Codex · Obsidian |
+| [**skill-mega-token-saver**](https://github.com/danilolana/skill-mega-token-saver) | Reduz o consumo de tokens em agentes de IA sem perder qualidade técnica | Codex · Claude |
+| [**skill-obsidian**](https://github.com/danilolana/skill-obsidian) | Conecta o chat ao cofre do Obsidian e o alimenta durante a conversa | Claude · Obsidian |
+| [**skill-professor-obsidian**](https://github.com/danilolana/skill-professor-obsidian) | Professor socrático que ensina a partir do seu próprio material de estudo | Claude Code · Obsidian |
+| [**maplife**](https://github.com/danilolana/maplife) *(em desenvolvimento)* | API REST para mapear hábitos, escrita à mão para estudar arquitetura em camadas e SOLID | Java 21 · Spring Boot · MySQL |
 
 ## `> stack`
 
@@ -46,23 +65,15 @@ Sou estudante de **Desenvolvimento Full Stack** e curso o técnico em **Informá
   </table>
 </div>
 
-<br>
-
 ## `> atividade`
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danilolana&show_icons=true&hide_border=true&bg_color=02050B&title_color=38BDF8&icon_color=1687FF&text_color=AFC5DB&locale=pt-br" alt="Estatísticas do GitHub de Danilo Lana"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=danilolana&hide_border=true&background=02050B&ring=1687FF&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=AFC5DB&currStreakNum=F4F9FF&sideNums=F4F9FF&dates=7389A1&locale=pt_BR" alt="Sequência de contribuições de Danilo Lana"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danilolana&show_icons=true&hide_border=true&bg_color=0B1118&title_color=38BDF8&icon_color=7DD3FC&text_color=AFC5DB&locale=pt-br" alt="Estatísticas do GitHub de Danilo Lana"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=danilolana&hide_border=true&background=0B1118&ring=38BDF8&fire=7DD3FC&currStreakLabel=38BDF8&sideLabels=AFC5DB&currStreakNum=F4F9FF&sideNums=F4F9FF&dates=7389A1&locale=pt_BR" alt="Sequência de contribuições de Danilo Lana"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=danilolana&label=VISITAS%20AO%20PERFIL&color=1687ff&style=flat-square" alt="Contador de visitas"/>
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Aprendendo continuamente. Construindo com intenção.</sub>
+  <sub>Entender o problema primeiro. Entregar o que funciona.</sub>
 </div>
